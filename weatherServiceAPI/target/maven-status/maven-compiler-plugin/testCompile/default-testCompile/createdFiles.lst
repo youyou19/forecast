@@ -1,0 +1,6 @@
+weatherServiceAPI\WeatherJUnitTests.class
+weatherServiceAPI\WeatherMockTests.class
+weatherServiceAPI\WeatherTest.class
+weatherServiceAPI\AbstractTest.class
+weatherServiceAPI\WeatherControllerTest.class
+weatherServiceAPI\ApplicationTest.class
